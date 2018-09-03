@@ -12,17 +12,12 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require assets/js/core/jquery.min.js
-//= require assets/js/core/popper.min.js
-//= require assets/js/core/bootstrap-material-design.min.js
-//= require assets/js/plugins/moment.min.js
-//= require assets/js/plugins/bootstrap-datetimepicker.js
-//= require assets/js/plugins/nouislider.min.js
-//= require assets/js/plugins/bootstrap-tagsinput.js
-//= require assets/js/plugins/bootstrap-selectpicker.js
-//= require assets/js/plugins/jasny-bootstrap.min.js
-//= require assets/js/plugins/jquery.flexisel.js
-//= require assets/demo/modernizr.js
-//= require assets/demo/vertical-nav.js
-//= require assets/js/material-kit.js
+//= require vendor/jquery/jquery.min.js
+//= require js/bootstrap.bundle.min.js
+//= require vendor/jquery-easing/jquery.easing.min.js
+//= require vendor/magnific-popup/jquery.magnific-popup.min.js
+//= require js/jqBootstrapValidation.js
+//= require js/contact_me.js
+
+//= require js/freelancer.min.js
 //= require_tree .
