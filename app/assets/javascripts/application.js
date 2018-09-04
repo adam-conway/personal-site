@@ -18,6 +18,5 @@
 //= require vendor/magnific-popup/jquery.magnific-popup.min.js
 //= require js/jqBootstrapValidation.js
 //= require js/contact_me.js
-
-//= require js/freelancer.min.js
+//= require js/freelancer.js
 //= require_tree .
